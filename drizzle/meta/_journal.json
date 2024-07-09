@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1720501109118,
+      "tag": "0000_past_red_ghost",
+      "breakpoints": true
+    }
+  ]
+}
